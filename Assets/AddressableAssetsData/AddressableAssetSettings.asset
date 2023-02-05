@@ -49,10 +49,10 @@ MonoBehaviour:
       - m_Id: c9f3993394a1508458bb722aa9aa667f
         m_Value: ServerData/[BuildTarget]
       - m_Id: 0bff8a324d3624046af46bfa148a4085
-        m_Value: https://storage.googleapis.com/dynamic_loading_addressable_assets_demo/StandaloneWindows/[BuildTarget]
+        m_Value: https://storage.googleapis.com/dynamic_loading_addressable_assets_demo/[BuildTarget]
     - m_InheritedParent: 
       m_Id: 081bbf70881d50d4c9f2d4b4add5dea8
-      m_ProfileName: New Profile
+      m_ProfileName: Profile
       m_Values:
       - m_Id: cfca31204c1696c4095eb6eb42e8ffe0
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
@@ -97,7 +97,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 404da8694295ac242b943f83e374e517, type: 2}
   - {fileID: 11400000, guid: 39a6ef4c7a540fe47a2b680f98155791, type: 2}
   - {fileID: 11400000, guid: dd3ef78f5659a67458e5e5bc8c418f76, type: 2}
-  m_ActiveProfileId: 081bbf70881d50d4c9f2d4b4add5dea8
+  m_ActiveProfileId: ef351e80e545ca34b8ca64f086773a6c
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
