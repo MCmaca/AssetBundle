@@ -50,20 +50,6 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: 0bff8a324d3624046af46bfa148a4085
         m_Value: https://storage.googleapis.com/dynamic_loading_addressable_assets_demo/[BuildTarget]
-    - m_InheritedParent: 
-      m_Id: 081bbf70881d50d4c9f2d4b4add5dea8
-      m_ProfileName: Profile
-      m_Values:
-      - m_Id: cfca31204c1696c4095eb6eb42e8ffe0
-        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
-      - m_Id: 2d6cbd612ec3bb745ae009c2b4c3fc1f
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
-      - m_Id: f90a4afec79a949479ee8e6d178cf5d7
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
-      - m_Id: c9f3993394a1508458bb722aa9aa667f
-        m_Value: ServerData/[BuildTarget]
-      - m_Id: 0bff8a324d3624046af46bfa148a4085
-        m_Value: https://storage.googleapis.com/dynamic_loading_addressable_assets_demo/StandaloneWindows/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: cfca31204c1696c4095eb6eb42e8ffe0
       m_Name: BuildTarget
