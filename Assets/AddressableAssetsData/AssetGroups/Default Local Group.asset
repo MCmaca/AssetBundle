@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 442eace3fe11520478e94afa3a4e92d2
+  m_SerializeEntries:
+  - m_GUID: 2b428f431bec4ad4dbb012a63ee42ad2
+    m_Address: Assets/Lowpoly Style/Free Rocks and Plants/Prefabs/TerrainPatchGreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1000012239180296, guid: 2b428f431bec4ad4dbb012a63ee42ad2, type: 3}
+    m_TargetAsset: {fileID: 1000012239180296, guid: 2b428f431bec4ad4dbb012a63ee42ad2, type: 3}
+  - m_GUID: 84a240cf1c5ef5f4d8ff048828a60d97
+    m_Address: Assets/Lowpoly Style/Free Rocks and Plants/Prefabs/RockGrey1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 157192, guid: 84a240cf1c5ef5f4d8ff048828a60d97, type: 3}
+    m_TargetAsset: {fileID: 157192, guid: 84a240cf1c5ef5f4d8ff048828a60d97, type: 3}
+  - m_GUID: 8e29574f61c003a45a3cc9a571582336
+    m_Address: Assets/Lowpoly Style/Free Rocks and Plants/Prefabs/Reed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 137496, guid: 8e29574f61c003a45a3cc9a571582336, type: 3}
+    m_TargetAsset: {fileID: 137496, guid: 8e29574f61c003a45a3cc9a571582336, type: 3}
+  - m_GUID: 43ac926c2709a4b4e9868e88f7f97a61
+    m_Address: Assets/Lowpoly Style/Free Rocks and Plants/Prefabs/Tree1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 131956, guid: 43ac926c2709a4b4e9868e88f7f97a61, type: 3}
+    m_TargetAsset: {fileID: 131956, guid: 43ac926c2709a4b4e9868e88f7f97a61, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2459be2812fdd5146990070e754d5b00, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 109a86ba4ea64b546ace7c8b74323cc6, type: 2}
+    - {fileID: 11400000, guid: 68b81a518d46b0f48a1211244c7a028e, type: 2}
